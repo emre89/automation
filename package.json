@@ -1,0 +1,26 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Test Automation Project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  },
+  "scripts": {
+    "test": "make cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emre89/automation.git"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "Emre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emre89/automation/issues"
+  },
+  "homepage": "https://github.com/emre89/automation#readme"
+}
